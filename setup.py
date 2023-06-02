@@ -21,6 +21,7 @@ setup(
         'tqdm',
         'joblib',
         'pandas>=1.0.3',
+        'polars',
         'numpy>=1.18.1',
         'scikit-learn',
         'scipy',
